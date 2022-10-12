@@ -1,0 +1,13 @@
+Comandos frequentes em git:
+
+- mkdir
+- ls
+- cd
+- git init
+- ls -a
+- git config
+- git add
+- git commit
+- mv
+- git status
+- git push
