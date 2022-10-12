@@ -1,2 +1,7 @@
-# DIO-desafio-introducao_git-github
-Repositório criado para o primeiro desafio de projeto para exercitar os conhecimentos básicos em Git/GitHub.
+# Desafio de projeto Git/GitHub DIO
+Repositório criado para praticar as noções básicas de Git e GitHub adquiridas no Bootcamp da DIO.
+
+Funções e competências utilizadas:
+
+ - Funções básicas do git (git clone, git push, commits...)
+ - Criação de repositório no Github
